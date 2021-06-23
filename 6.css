@@ -1,0 +1,14 @@
+.container::before,
+.container::after {
+  background: linear-gradient(235deg, #bbff00, #fff700, #0bff50);
+}
+
+.container {
+  margin-top: 100px;
+}
+
+ul li {
+  margin-left: 50px;
+  list-style: square;
+  color: red;
+}

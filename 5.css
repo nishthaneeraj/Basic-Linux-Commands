@@ -1,0 +1,10 @@
+.container::before,
+.container::after {
+  background: linear-gradient(235deg, #00ff99, #7300ff, #ff0b0b);
+}
+
+.container {
+   
+    margin-top: 100px;
+ 
+  }
