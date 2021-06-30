@@ -27,6 +27,7 @@ body {
   color: #fff;
 }
 .same {
+  
   position: relative;
   font-family: "Ubuntu Mono", monospace;
   background-color: #060c21;
@@ -42,6 +43,12 @@ body {
 }
 .first {
   margin-top: 0px;
+}
+a{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
 }
 .same a,
 .same a:visited {
